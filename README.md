@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @nansys-dev
+- 👋 Hi, I’m nansys-dev.
